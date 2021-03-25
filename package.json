@@ -45,5 +45,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": " https://git.heroku.com/lit-mountain-14987.git"
+  "proxy": "https://lit-mountain-14987.herokuapp.com"
 }
